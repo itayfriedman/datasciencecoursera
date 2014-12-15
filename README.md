@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-first assiment coursera cours The Data Scientists Toolbox
+first assignment coursera cours The Data Scientists Toolbox
